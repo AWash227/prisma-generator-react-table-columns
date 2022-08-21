@@ -1,7 +1,7 @@
 {
   "name": "prisma-generator-react-table-columns",
   "description": "Prisma react-table columns generator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "dist/generator.js",
   "license": "MIT",
   "bin": {
