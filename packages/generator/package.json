@@ -1,6 +1,6 @@
 {
   "name": "prisma-generator-react-table-columns",
-  "description": "Provide a description about your generator",
+  "description": "Prisma react-table columns generator",
   "version": "1.0.0",
   "main": "dist/generator.js",
   "license": "MIT",
@@ -35,12 +35,12 @@
     "@semantic-release/git": "^10.0.1",
     "semantic-release": "^18.0.1"
   },
-  "homepage": "Link to homepage or github readme here",
+  "homepage": "https://github.com/AWash227/prisma-generator-react-table-columns",
   "repository": {
     "type": "git",
-    "url": "Repo link here"
+    "url": "https://github.com/AWash227/prisma-generator-react-table-columns"
   },
-  "author": "Your Name <Your Email>",
+  "author": "AWash227",
   "keywords": [
     "prisma",
     "prisma2",
