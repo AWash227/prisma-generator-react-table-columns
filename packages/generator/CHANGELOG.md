@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/AWash227/prisma-generator-react-table-columns/compare/v1.1.0...v1.1.1) (2022-08-21)
+
+
+### Bug Fixes
+
+* add zod & ts-morph ([e705118](https://github.com/AWash227/prisma-generator-react-table-columns/commit/e705118fae845b198e9b6eee6aab5376f1d8cc68))
+
 # [1.1.0](https://github.com/AWash227/prisma-generator-react-table-columns/compare/v1.0.0...v1.1.0) (2022-08-21)
 
 
